@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Juan Fernandez — Full Stack Developer based in Santiago, Chile" width="100%">
+  <img src="banner.png" alt="Juan Fernandez — Full Stack Developer" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ platforms that have to stay up under real traffic. I also write **C# / .NET** fo
 Windows desktop tooling, and I spend a growing share of my time on **AI automation**
 and developer tooling.
 
-📍 Santiago, Chile &nbsp;·&nbsp; 🟢 Available for new projects
+ Available for new projects
 
 ## What I work on
 
