@@ -46,6 +46,7 @@ Agents, bots and tooling that delete manual steps out of a workflow.
 ### 🖥️ Systems, desktop & infrastructure
 `C#` `.NET 8` `Java` `MariaDB`
 
+- **[iCopy](https://github.com/Z1Code/iCopy)** ⭐ **129** — complete, verified and uninterrupted iCloud Photos backup for Windows
 - **[AirPodsLink](https://github.com/Z1Code/AirPodsLink)** — makes AirPods connect faster on Windows: Bluetooth LE detection plus an A2DP reconnect request, no drivers
 - **[Windows-RGB-Hotkeys](https://github.com/Z1Code/Windows-RGB-Hotkeys)** — global hotkeys for OpenRGB devices
 - **L2J · Lineage II game servers** — persistent MMORPG worlds: login, gameplay, databases, launchers and production infrastructure
