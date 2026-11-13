@@ -30,7 +30,7 @@ Full storefronts with auth, payments, inventory and admin dashboards.
 - **[VelocitySetups](https://velocitysetups.com)** — e-commerce for custom gaming PC builds
 - **[IvaniaBeauty](https://ivaniabeauty.com)** — premium shapewear store, shipping Colombia → Chile
 - **[GastroCloud](https://github.com/Z1Code/gastrocloud)** — multi-tenant restaurant management SaaS
-- **[Garru](https://7uanf.com/garru)** · **[Doblez Empanadas](https://7uanf.com/empanadas)** — brand sites with operations dashboards
+- **[Garru](https://github.com/Z1Code/garru-web)** · **Doblez Empanadas** — brand sites with operations dashboards
 
 ### 🧠 AI & automation
 Agents, bots and tooling that delete manual steps out of a workflow.
