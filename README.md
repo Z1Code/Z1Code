@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="banner.png" alt="Juan Fernandez — Full Stack Developer" width="100%">
+  <img src="banner.png" alt="Juan Fernandez — AI Pipeline Engineer in Santiago, Chile" width="100%">
 </p>
 
 <p align="center">
   <a href="https://7uanf.com"><img src="https://img.shields.io/badge/Portfolio-7uanf.com-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/juan-fernandez7"><img src="https://img.shields.io/badge/LinkedIn-juan--fernandez7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/7uanF"><img src="https://img.shields.io/badge/X-@7uanF-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://wa.me/56937111513"><img src="https://img.shields.io/badge/WhatsApp-Let's%20talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
 
-I build web products end to end — from the database schema to the pixel that ships.
-Most of my work is **Next.js + PostgreSQL**: e-commerce, operations dashboards and
-platforms that have to stay up under real traffic. I also write **C# / .NET** for
-Windows desktop tooling, and I spend a growing share of my time on **AI automation**
-and developer tooling.
+I'm **Juan Fernandez**, an **AI Pipeline Engineer based in Santiago, Chile**. I build
+production AI agents, multi-agent systems and LLM pipelines (Claude, GPT, MCP), and the
+full-stack products around them — from the database schema to the pixel that ships.
+Most of that product work is **Next.js + PostgreSQL**: e-commerce, operations dashboards
+and platforms that have to stay up under real traffic. I also write **C# / .NET** for
+Windows desktop tooling.
 
  Available for new projects
 
@@ -48,7 +51,7 @@ Agents, bots and tooling that delete manual steps out of a workflow.
 - **L2J · Lineage II game servers** — persistent MMORPG worlds: login, gameplay, databases, launchers and production infrastructure
 
 ### ❤️ Open source & civic tech
-- **[SOS Venezuela 2026](https://sosvenezuela2026.com)** ⭐ **6** — real-time collaborative map after the June 24 M7.5 earthquake. The first web app deployed after the quake: damage reports, missing-person search, shelters and an open API
+- **[SOS Venezuela 2026](https://sosvenezuela2026.com)** ⭐ **6** — real-time collaborative map after the June 24 M7.5 earthquake. Online less than 7 hours after the quake: damage reports, missing-person search, shelters and an open API
 - **[deepseek-status-bar-for-copilot](https://github.com/Z1Code/deepseek-status-bar-for-copilot)** — VS Code status bar with real DeepSeek cost tracking and a peak/off-peak rate badge with countdown
 
 ## Tech I reach for
